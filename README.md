@@ -1,3 +1,1 @@
-**NOTE: This addon, for now, does not contain an actual Actor, despite having `lua/entities/CombineHunter.lua`. Instead, sound overrides are done there. Not sure if I'll make a Combine Hunter Actor.**
-
-For now, this addon simply replaces the Half-Life 2: Episode Two Hunter sounds, with scarier, echoing variants, depending on the distance to you.
+Better Combine Hunter sounds, as defined [here.](https://github.com/KM-CM/GarrysMod-KM_CMs_Addon/blob/9f02843f6d2b3addd15784fa7f8b42a9f03e73d3/lua/entities/CombineHunter.lua#L7)
